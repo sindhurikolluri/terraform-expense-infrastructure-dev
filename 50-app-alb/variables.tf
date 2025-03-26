@@ -16,9 +16,9 @@ variable "common_tags" {
 
 
 variable "zone_id" {
-    default = "Z021448929NMXW4P65UQE"
+    default = "Z05604442B8BKF9PJCXT0"
 }
 
 variable "domain_name" {
-    default = "daws82s.online"
+    default = "learningmaniac.fun"
 }
